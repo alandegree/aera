@@ -1,0 +1,237 @@
+{
+	"icon": {
+		"type": "element",
+		"isRootNode": true,
+		"name": "svg",
+		"attributes": {
+			"id": "Layer_1",
+			"data-name": "Layer 1",
+			"xmlns": "http://www.w3.org/2000/svg",
+			"xmlns:xlink": "http://www.w3.org/1999/xlink",
+			"viewBox": "0 0 1404.27 1517"
+		},
+		"children": [
+			{
+				"type": "element",
+				"name": "defs",
+				"attributes": {},
+				"children": [
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient",
+							"x1": "1163.04",
+							"y1": "544.37",
+							"x2": "-75.25",
+							"y2": "2350.53",
+							"gradientUnits": "userSpaceOnUse"
+						},
+						"children": [
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "0",
+									"stop-color": "#9cc1ff"
+								},
+								"children": []
+							},
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "1",
+									"stop-color": "#d6d6ff"
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient-2",
+							"x1": "0",
+							"y1": "605.86",
+							"x2": "518.48",
+							"y2": "605.86",
+							"xlink:href": "#linear-gradient"
+						},
+						"children": []
+					},
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient-3",
+							"x1": "2124.69",
+							"y1": "10.99",
+							"x2": "237.03",
+							"y2": "741.87",
+							"gradientUnits": "userSpaceOnUse"
+						},
+						"children": [
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "0",
+									"stop-color": "#d6d6ff"
+								},
+								"children": []
+							},
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": ".59",
+									"stop-color": "#afc8ff"
+								},
+								"children": []
+							},
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "1",
+									"stop-color": "#99c0ff"
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient-4",
+							"x1": "935.58",
+							"y1": "1334.79",
+							"x2": "1885.99",
+							"y2": "-33.63",
+							"xlink:href": "#linear-gradient-3"
+						},
+						"children": []
+					},
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient-5",
+							"x1": "32.7",
+							"y1": "912.5",
+							"x2": "519.58",
+							"y2": "912.5",
+							"gradientUnits": "userSpaceOnUse"
+						},
+						"children": [
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "0",
+									"stop-color": "#d6d6ff"
+								},
+								"children": []
+							},
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": ".57",
+									"stop-color": "#b2c9ff"
+								},
+								"children": []
+							},
+							{
+								"type": "element",
+								"name": "stop",
+								"attributes": {
+									"offset": "1",
+									"stop-color": "#9cc1ff"
+								},
+								"children": []
+							}
+						]
+					},
+					{
+						"type": "element",
+						"name": "linearGradient",
+						"attributes": {
+							"id": "linear-gradient-6",
+							"x1": "1132.49",
+							"y1": "128.58",
+							"x2": "-628.98",
+							"y2": "275.81",
+							"xlink:href": "#linear-gradient-3"
+						},
+						"children": []
+					}
+				]
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-6",
+					"d": "M1057.25,917.46l-336.21,584.45c-11.33,19.93-39.97,20.17-51.63.43l-141.19-239.1c-11.38-19.27-11.53-43.16-.39-62.57l149.83-261.11c7.85-13.67,22.41-22.1,38.17-22.1h341.42Z",
+					"fill": "url(#linear-gradient)"
+				},
+				"children": []
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-1",
+					"d": "M343.58,919.63L4.13,339.42c-11.58-19.79,2.56-44.7,25.49-44.9l277.66-2.42c22.37-.2,43.13,11.65,54.35,31.01l150.93,260.47c7.9,13.64,7.91,30.46.01,44.11l-168.98,291.95Z",
+					"fill": "url(#linear-gradient-2)"
+				},
+				"children": []
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-3",
+					"d": "M702.03,304.28l672.21-3.51c22.93-.12,37.42,24.59,26.12,44.54l-136.86,241.6c-11.03,19.47-31.67,31.51-54.04,31.53l-301.04.31c-15.76.02-30.33-8.4-38.19-22.07l-168.19-292.41Z",
+					"fill": "url(#linear-gradient-3)"
+				},
+				"children": []
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-2",
+					"d": "M1234.05,613.32l-358.88,617.34h169.66c246.03,0,398.12-268.26,271.78-479.38l-82.56-137.96Z",
+					"fill": "url(#linear-gradient-4)"
+				},
+				"children": []
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-4",
+					"d": "M160.69,603.84l358.88,617.34h-169.66c-246.03,0-398.12-268.26-271.78-479.38l82.56-137.96Z",
+					"fill": "url(#linear-gradient-5)"
+				},
+				"children": []
+			},
+			{
+				"type": "element",
+				"name": "path",
+				"attributes": {
+					"class": "cls-5",
+					"d": "M1032.43,304.7l-714.07-.96,85.46-146.56c123.94-212.54,432.29-208.79,551.02,6.7l77.59,140.81Z",
+					"fill": "url(#linear-gradient-6)"
+				},
+				"children": []
+			}
+		]
+	},
+	"name": "Aera"
+}
